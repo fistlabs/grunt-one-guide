@@ -13,7 +13,8 @@ grunt.initConfig({
         options: {
             root: process.cwd(),
             patterns: ['lib/**/*.js', 'test/**/*.js'],
-            excludes: ['test/fixtures/**']
+            excludes: ['test/fixtures/**'],
+            config: 'yandex-node'
         }
     }
 });
