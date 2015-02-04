@@ -7,7 +7,7 @@
     "Golyshev Dmitrii <golyshev.dmitry@yandex.ru>"
   ],
   "dependencies": {
-    "one-guide": ">= 0.0.2 && <= 1",
+    "one-guide": ">= 0.1.0 && <= 1",
     "lodash-node": "3.0.1"
   },
   "peerDependencies": {
@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "grunt-cli": "0.1.13",
-    "gulp-one-guide": "0.0.1",
+    "gulp-one-guide": "0.1.0",
     "glob": "4.3.5",
     "gulp": ">= 3.8.10 && <= 4",
     "grunt": ">= 0.4.5 && <= 1",
